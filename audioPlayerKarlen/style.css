@@ -116,7 +116,7 @@ body {
 
 .fill {
     height: 8px;
-    width: 1px;
+    width: 8px;
     border-radius: 25px;
     background-color: lightblue;
     z-index: 999;
